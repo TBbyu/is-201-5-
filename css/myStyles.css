@@ -1,0 +1,9 @@
+body {
+    font-family: white, sans-serif;
+}
+
+.styled-div {
+    color: blue;
+    position: relative;
+    margin: 10px;
+}
